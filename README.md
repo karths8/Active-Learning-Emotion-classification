@@ -1,4 +1,4 @@
-# Seq2Emo: A Sequence to Multi-Label Emotion Classification
+# Investigating Contextual Representations and LLM-based Active learning for fine-grained Emotion Classification
 
 This repo presents the script to replicate the results of Seq2Emo, CC, BR, BR-att. Take a look at our paper ([link](https://drive.google.com/file/d/1EUMPlES3cA_PXAsb2SZG-Og7CgeCJaoV/view?usp=sharing)) to know more about the project!
 
